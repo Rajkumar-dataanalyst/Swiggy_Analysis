@@ -54,7 +54,7 @@ This page provides an overview of order-related KPIs and customer behavior trend
 
 ## 🖼️ Page 2: Customers & Delivery
 
-![Customers & Delivery](./Customers_and_Delivery.png)
+![Customers & Delivery](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis/blob/main/dashboard_2nd-page.png?raw=true)
 
 ### 🔹 Description:
 This page zooms into customer loyalty, delivery patterns, and restaurant-level performance.
