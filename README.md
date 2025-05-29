@@ -27,7 +27,7 @@ This project is a comprehensive **Swiggy Dashboard** created using **Tableau Des
 
 ## 🖼️ Page 1: Orders & Metrics
 
-![Orders & Metrics](./Orders_and_Metrics.png)
+![Orders & Metrics](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis/blob/main/dashboard_1st-page.png?raw=true)
 
 ### 🔹 Description:
 This page provides an overview of order-related KPIs and customer behavior trends using multiple visual formats.
